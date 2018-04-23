@@ -6,6 +6,10 @@ import { AppComponent } from './app.component';
 import { HotelComponent } from './components/hotel/hotel.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { SuggestionsComponent } from './components/suggestions/suggestions.component';
+import { FlightComponent } from './components/flight/flight.component';
+import { CruisesComponent } from './components/cruises/cruises.component';
+import { CarsComponent } from './components/cars/cars.component';
+import { PackagesComponent } from './components/packages/packages.component';
 
 
 @NgModule({
@@ -13,7 +17,11 @@ import { SuggestionsComponent } from './components/suggestions/suggestions.compo
     AppComponent,
     HotelComponent,
     NavbarComponent,
-    SuggestionsComponent
+    SuggestionsComponent,
+    FlightComponent,
+    CruisesComponent,
+    CarsComponent,
+    PackagesComponent
   ],
   imports: [
     BrowserModule
