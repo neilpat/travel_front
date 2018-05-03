@@ -79,5 +79,85 @@
 			"State": "NV",
 			"Country": "USA"
 		}
+	}],
+  "boats": [{
+		"boat": {
+			"CruiseNumber": 9,
+			"SourceLocation": 1,
+			"DestinationLocation": 3,
+			"Fare": 10
+		},
+		"sc": {
+			"LocationID": 1,
+			"CityName": "New York",
+			"State": "NY",
+			"Country": "USA"
+		},
+		"dc": {
+			"LocationID": 3,
+			"CityName": "Las Vegas",
+			"State": "NV",
+			"Country": "USA"
+		}
+	}, {
+		"boat": {
+			"CruiseNumber": 10,
+			"SourceLocation": 2,
+			"DestinationLocation": 4,
+			"Fare": 20
+		},
+		"sc": {
+			"LocationID": 2,
+			"CityName": "Los Angeles",
+			"State": "CA",
+			"Country": "USA"
+		},
+		"dc": {
+			"LocationID": 4,
+			"CityName": "Sacremento",
+			"State": "CA",
+			"Country": "USA"
+		}
+	}, {
+		"boat": {
+			"CruiseNumber": 11,
+			"SourceLocation": 3,
+			"DestinationLocation": 2,
+			"Fare": 12
+		},
+		"sc": {
+			"LocationID": 3,
+			"CityName": "Las Vegas",
+			"State": "NV",
+			"Country": "USA"
+		},
+		"dc": {
+			"LocationID": 2,
+			"CityName": "Los Angeles",
+			"State": "CA",
+			"Country": "USA"
+		}
+	}, {
+		"boat": {
+			"CruiseNumber": 12,
+			"SourceLocation": 2,
+			"DestinationLocation": 1,
+			"Fare": 14
+		},
+		"sc": {
+			"LocationID": 2,
+			"CityName": "Los Angeles",
+			"State": "CA",
+			"Country": "USA"
+		},
+		"dc": {
+			"LocationID": 1,
+			"CityName": "New York",
+			"State": "NY",
+			"Country": "USA"
+		}
 	}]
+
+  
 }
+
