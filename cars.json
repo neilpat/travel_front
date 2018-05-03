@@ -1,1 +1,55 @@
-[{"car":{"ConfirmationID":5,"CarType":" Ford","Rent":50,"Location":1},"loc":{"LocationID":1,"CityName":"New York","State":"NY","Country":"USA"}},{"car":{"ConfirmationID":6,"CarType":" Honda","Rent":70,"Location":2},"loc":{"LocationID":2,"CityName":"Los Angeles","State":"CA","Country":"USA"}},{"car":{"ConfirmationID":7,"CarType":" Toyota","Rent":36,"Location":3},"loc":{"LocationID":3,"CityName":"Las Vegas","State":"NV","Country":"USA"}},{"car":{"ConfirmationID":8,"CarType":" Nissan","Rent":46,"Location":4},"loc":{"LocationID":4,"CityName":"Sacremento","State":"CA","Country":"USA"}}]
+{
+	"cars": [{
+		"car": {
+			"ConfirmationID": 5,
+			"CarType": " Ford",
+			"Rent": 50,
+			"Location": 1
+		},
+		"loc": {
+			"LocationID": 1,
+			"CityName": "New York",
+			"State": "NY",
+			"Country": "USA"
+		}
+	}, {
+		"car": {
+			"ConfirmationID": 6,
+			"CarType": " Honda",
+			"Rent": 70,
+			"Location": 2
+		},
+		"loc": {
+			"LocationID": 2,
+			"CityName": "Los Angeles",
+			"State": "CA",
+			"Country": "USA"
+		}
+	}, {
+		"car": {
+			"ConfirmationID": 7,
+			"CarType": " Toyota",
+			"Rent": 36,
+			"Location": 3
+		},
+		"loc": {
+			"LocationID": 3,
+			"CityName": "Las Vegas",
+			"State": "NV",
+			"Country": "USA"
+		}
+	}, {
+		"car": {
+			"ConfirmationID": 8,
+			"CarType": " Nissan",
+			"Rent": 46,
+			"Location": 4
+		},
+		"loc": {
+			"LocationID": 4,
+			"CityName": "Sacremento",
+			"State": "CA",
+			"Country": "USA"
+		}
+	}]
+}
