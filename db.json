@@ -156,7 +156,9 @@
 			"State": "NY",
 			"Country": "USA"
 		}
-	}]
+	}],
+  "hotels":
+  [{"hotel":{"AccommodationID":1,"Type":"Family","RatePerNight":60,"Discounts":null,"Facilities":"All","Location":null}},{"hotel":{"AccommodationID":2,"Type":"Family","RatePerNight":65,"Discounts":null,"Facilities":"All","Location":null}},{"hotel":{"AccommodationID":3,"Type":"Single","RatePerNight":70,"Discounts":null,"Facilities":"No Breakfast","Location":null}},{"hotel":{"AccommodationID":4,"Type":"Double","RatePerNight":75,"Discounts":null,"Facilities":"All","Location":null}},{"hotel":{"AccommodationID":5,"Type":"Single","RatePerNight":74,"Discounts":null,"Facilities":"No Breakfast","Location":null}},{"hotel":{"AccommodationID":6,"Type":"Family","RatePerNight":55,"Discounts":null,"Facilities":"All","Location":null}},{"hotel":{"AccommodationID":7,"Type":"Business","RatePerNight":90,"Discounts":null,"Facilities":"All","Location":null}}]
 
   
 }
